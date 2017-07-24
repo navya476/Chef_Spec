@@ -1,0 +1,7 @@
+DEPENDENCIES
+  sample
+    path: .
+    metadata: true
+
+GRAPH
+  sample (0.1.0)

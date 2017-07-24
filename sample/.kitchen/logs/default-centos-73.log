@@ -1,0 +1,9 @@
+I, [2017-07-21T09:20:33.070275 #27340]  INFO -- default-centos-73: -----> Creating <default-centos-73>...
+I, [2017-07-21T09:20:34.072384 #27340]  INFO -- default-centos-73: Bringing machine 'default' up with 'virtualbox' provider...
+I, [2017-07-21T09:20:34.135547 #27340]  INFO -- default-centos-73: ==> default: Box 'bento/centos-7.3' could not be found. Attempting to find and install...
+I, [2017-07-21T09:20:34.135954 #27340]  INFO -- default-centos-73:     default: Box Provider: virtualbox
+I, [2017-07-21T09:20:34.136244 #27340]  INFO -- default-centos-73:     default: Box Version: >= 0
+I, [2017-07-21T09:20:37.696614 #27340]  INFO -- default-centos-73: ==> default: Loading metadata for box 'bento/centos-7.3'
+I, [2017-07-21T09:20:37.697143 #27340]  INFO -- default-centos-73:     default: URL: https://atlas.hashicorp.com/bento/centos-7.3
+I, [2017-07-21T09:20:40.080944 #27340]  INFO -- default-centos-73: ==> default: Adding box 'bento/centos-7.3' (v2.3.7) for provider: virtualbox
+I, [2017-07-21T09:20:40.083291 #27340]  INFO -- default-centos-73:     default: Downloading: https://app.vagrantup.com/bento/boxes/centos-7.3/versions/2.3.7/providers/virtualbox.box
